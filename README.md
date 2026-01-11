@@ -7,7 +7,7 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Technology Strengths and Tools
-<img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/88b575db-4753-4a9f-909a-1e523128e8c5" /> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ecadffe2-7f84-4bd4-8516-f945d8677045" /> <img width="120" height="120" alt="image" src="https://github.com/user-attachments/assets/f2469757-b7eb-4055-983a-23acf896fdd9" />
+<img width="80" height="60" alt="image" src="https://github.com/user-attachments/assets/88b575db-4753-4a9f-909a-1e523128e8c5" /> <img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/ecadffe2-7f84-4bd4-8516-f945d8677045" /> <img width="70" height="70" alt="image" src="https://github.com/user-attachments/assets/f2469757-b7eb-4055-983a-23acf896fdd9" />
 
 
 
