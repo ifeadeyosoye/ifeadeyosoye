@@ -12,25 +12,19 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
 
 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 💡 Interests 
+- Software Engineering: Building scalable applications and clean system architectures
+- Java Backend: Object-oriented programming and backend logic development
+- AI and Hardware: Integrating AI models with robotics and autonomous systems
+ --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## 💼 Experience
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ ## 📑 Notable Projects 
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## 📱 Let's Connect!
+- Github: https://github.com/ifeadeyosoye 
+- LinkedIn: https://www.linkedin.com/in/ifeoluwa-adeyosoye/ 
+- Email: ifeoluwaadeyosoye@gmail.com
 
-
-
-
-
-
-<!--
-**ifeadeyosoye/ifeadeyosoye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
