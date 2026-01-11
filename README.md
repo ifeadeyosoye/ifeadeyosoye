@@ -17,14 +17,13 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
 - Java Backend: Object-oriented programming and backend logic development
 - AI and Hardware: Integrating AI models with robotics and autonomous systems
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## 💼 Experience
-
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- ## 📑 Notable Projects 
-
+## 📑 Notable Projects 
+- **Sanguine:** A Java turn-based game designed with MVC architecture, an interactable Swing GUI, and AI-controlled opponents   
+- **Groovetrack Dance Learning App:**  
+- **SLAM Mapping:**
+- **Obezag Gold Rush:** 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📱 Let's Connect!
-- Github: https://github.com/ifeadeyosoye 
 - LinkedIn: https://www.linkedin.com/in/ifeoluwa-adeyosoye/ 
 - Email: ifeoluwaadeyosoye@gmail.com
 
