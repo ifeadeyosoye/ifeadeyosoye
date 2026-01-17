@@ -19,7 +19,7 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📑 Notable Projects 
 - **Sanguine:** A Java turn-based game designed with MVC architecture, an interactable Swing GUI, and AI-controlled opponents   
-- **Groovetrack Dance Learning App:** A backend-driven dance learning app built during a hackathon using Django REST and Firebase, enabling progress tracking and personalized recommendations  
+- **Groovetrack Dance Learning App:** A backend-driven dance learning app built during a hackathon using Django REST and Firebase, enabling progress tracking and personalized recommendations (code available upon request)
 - **SLAM Mapping:** A Python/OpenCV project exploring monocular SLAM for autonomous drone navigation through feature detection, pose estimation, and 3D mapping
 - **Obezag Gold Rush:** A self-published 2D Python game built with Pygame, featuring custom artwork, physics-based movement, and randomized gameplay elements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
