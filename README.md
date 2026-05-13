@@ -18,9 +18,10 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
 - AI and Hardware: Integrating AI models with robotics and autonomous systems
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📑 Notable Projects 
+- **AI Running Route Creator:** An AI-powered route generation tool built with Python and OSMnx, using A* pathfinding and simulated annealing to create optimized looped running routes with scenic waypoints
+- **PawMatch:** A full-stack pet adoption management system built with Flask, Streamlit, and MySQL, featuring multi-persona dashboards, a REST API, and a compatibility quiz for matching adopters with pets
 - **Sanguine:** A Java turn-based game designed with MVC architecture, an interactable Swing GUI, and AI-controlled opponents   
-- **Groovetrack Dance Learning App:** A backend-driven dance learning app built during a hackathon using Django REST and Firebase, enabling progress tracking and personalized recommendations (code available upon request)
-- **SLAM Mapping:** A Python/OpenCV project exploring monocular SLAM for autonomous drone navigation through feature detection, pose estimation, and 3D mapping
+- **Groovetrack Dance Learning App:** A backend-driven dance learning app built during a hackathon using Django REST and Firebase, enabling progress tracking and personalized recommendations 
 - **Obezag Gold Rush:** A self-published 2D Python game built with Pygame, featuring custom artwork, physics-based movement, and randomized gameplay elements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📱 Let's Connect!
