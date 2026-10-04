@@ -14,7 +14,7 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 💡 Interests 
 - Software Engineering: Building scalable applications and clean system architectures
-- Java Backend: Object-oriented programming and backend logic development
+- Game Development: Designing gameplay systems and player-focused experiences in Unity and C#
 - AI and Hardware: Integrating AI models with robotics and autonomous systems
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📑 Notable Projects 
