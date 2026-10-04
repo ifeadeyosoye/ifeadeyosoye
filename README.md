@@ -19,8 +19,9 @@ Curiosity and teaching myself new skills have developed me into a fast learner, 
  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 📑 Notable Projects 
 - **AI Running Route Creator:** An AI-powered route generation tool built with Python and OSMnx, using A* pathfinding and simulated annealing to create optimized looped running routes with scenic waypoints
+- **Chop Chop!:** A 3D Overcooked-style cooking game built in Unity and C#, featuring state-driven cooking stations, customer AI with patience timers, and fire mechanics across three escalating levels
+- **Sanguine:** A Java turn-based game designed with MVC architecture, an interactable Swing GUI, and AI-controlled opponents
 - **PawMatch:** A full-stack pet adoption management system built with Flask, Streamlit, and MySQL, featuring multi-persona dashboards, a REST API, and a compatibility quiz for matching adopters with pets
-- **Sanguine:** A Java turn-based game designed with MVC architecture, an interactable Swing GUI, and AI-controlled opponents   
 - **Groovetrack Dance Learning App:** A backend-driven dance learning app built during a hackathon using Django REST and Firebase, enabling progress tracking and personalized recommendations 
 - **Obezag Gold Rush:** A self-published 2D Python game built with Pygame, featuring custom artwork, physics-based movement, and randomized gameplay elements
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
